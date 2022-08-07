@@ -1,4 +1,8 @@
-# Welcome to my first AWS CDK project
+# Welcome to my first <img src="assets/svg/aws.svg"/> CDK project
+
+<img src="assets/svg/cdk.svg" height="75px" />
+
+<br />
 
 This is my first project for CDK development with TypeScript.
 
